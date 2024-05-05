@@ -1,0 +1,10 @@
+#icons {
+  display: grid;
+}
+
+.icon {
+  background-color: var(--bg-light);
+  padding: 2px;
+  width: 25px;
+  height: 25px;
+}
