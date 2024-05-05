@@ -5,9 +5,9 @@ document.getElementById('icons').innerHTML = icons.map(i=>`<img class="icon" src
 document.getElementById('type').onchange = function(event){
   document.querySelectorAll('.icon').forEach(e=>{
     if (event.target.checked) {
-      e.href = e.href.replace('base/', 'outline/')
+      e.src = e.src.replace('base/', 'outline/')
     } else {
-      e.href = e.href.replace('outline/', 'base/')
+      e.src = e.src.replace('outline/', 'base/')
     }
   })
 }
