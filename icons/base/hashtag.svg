@@ -1,0 +1,8 @@
+<svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g clip-path="url(#clip0_14_62)">
+    <rect x="64" width="32" height="256" rx="16" fill="white"/>
+    <rect x="160" width="32" height="256" rx="16" fill="white"/>
+    <rect x="1.08777" y="96.0123" width="32" height="256" rx="16" transform="rotate(-90 1.08777 96.0123)" fill="white"/>
+    <rect x="-1.08777" y="191.988" width="32" height="256" rx="16" transform="rotate(-90 -1.08777 191.988)" fill="white"/>
+  </g>
+</svg>
