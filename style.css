@@ -1,7 +1,7 @@
 #icons {
   display: grid;
   grid-template-columns: repeat(auto-fill, 5px);
-  grid-gap: 90px;
+  grid-gap: 6px 90px;
 }
 
 .icon {
