@@ -6,7 +6,4 @@ function render() {
   <img src="/icons/${document.getElementById('type').checked ? 'outline' : 'base'}/${i}.svg">
 </div>`).join('')
 }
-
-document.getElementById('type').onchange = render;
-document.getElementById('search').onchange = render;
 render();
