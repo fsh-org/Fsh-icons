@@ -16,9 +16,9 @@
     <link rel="stylesheet" href="/style.css">
   </head>
   <body>
-    <input id="search" placeholder="Search">
+    <input id="search" placeholder="Search" onkeyup="render()">
     <label for="type">Outline: </label>
-    <input name="type" id="type" type="checkbox">
+    <input name="type" id="type" type="checkbox" onchange="render()">
     <div id="icons"></div>
     <script src="/script.js"></script>
   </body>
