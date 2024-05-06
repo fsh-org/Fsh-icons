@@ -24,4 +24,5 @@
   word-wrap: break-word;
   width: 100%;
   text-align: center;
+  flex: 1;
 }
