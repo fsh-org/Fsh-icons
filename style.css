@@ -1,7 +1,7 @@
 #icons {
   display: grid;
   grid-template-columns: repeat(auto-fill, 5px);
-  grid-gap: 6px 90px;
+  grid-gap: 6px 75px;
 }
 
 .icon {
@@ -11,10 +11,13 @@
   width: 80px;
 }
 .icon img {
-  width: 80px;
-  height: 80px;
+  width: 60px;
+  height: 60px;
 }
 .icon p {
-  margin: 0;
   margin-top: -2px;
+  font-size: 80%;
+  word-wrap: break-word;
+  width: 100%;
+  text-align: center;
 }
