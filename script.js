@@ -1,4 +1,4 @@
-let icons = ['square'];
+let icons = ['square', 'plus'];
 
 document.getElementById('icons').innerHTML = icons.map(i=>`<img class="icon" src="/icons/base/${i}.svg">`).join('')
 
