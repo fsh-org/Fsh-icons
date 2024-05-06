@@ -1,13 +1,9 @@
 let icons = ['square', 'plus'];
 
-document.getElementById('icons').innerHTML = icons.map(i=>`<img class="icon" src="/icons/base/${i}.svg">`).join('')
-
-document.getElementById('type').onchange = function(event){
-  document.querySelectorAll('.icon').forEach(e=>{
-    if (event.target.checked) {
-      e.src = e.src.replace('base/', 'outline/')
-    } else {
-      e.src = e.src.replace('outline/', 'base/')
-    }
-  })
+function render() {
+  document.getElementById('icons').innerHTML = icons.filter(i=>i.includes(document.getElementById('search').value)).sort().map(i=>`<img class="icon" src="/icons/${document.getElementById('type').checked}/${i}.svg">`).join('')
 }
+
+document.getElementById('type').onchange = render;
+document.getElementById('search').onchange = render;
+render();
