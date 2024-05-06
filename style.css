@@ -1,14 +1,18 @@
 #icons {
   display: grid;
   grid-template-columns: repeat(auto-fill, 5px);
-  grid-gap: 6px 75px;
+  grid-gap: 6px 80px;
 }
 
 .icon {
   background-color: var(--bg-light);
   border-radius: 0.5rem;
   padding: 5px;
-  width: 80px;
+  width: 70px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
 .icon img {
   width: 60px;
