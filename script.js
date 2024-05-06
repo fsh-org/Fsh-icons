@@ -1,4 +1,4 @@
-let icons = ['square', 'plus', 'minus', 'divide', 'slash', 'backslash', 'bars', 'check', 'x', 'star', 'circle', 'hashtag'];
+let icons = ['backslash', 'bars', 'check', 'circle', 'divide', 'hashtag', 'minus', 'plus', 'slash', 'square', 'star', 'user', 'x'];
 
 function render() {
   document.getElementById('icons').innerHTML = icons.filter(i=>i.includes(document.getElementById('search').value)).sort().map(i=>`<div class="icon">
