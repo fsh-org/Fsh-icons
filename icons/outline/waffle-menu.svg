@@ -1,12 +1,11 @@
 <svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect width="256" height="256" stroke="white"/>
-<rect x="208" y="112" width="32" height="32" rx="16" transform="rotate(90 208 112)" stroke="white" stroke-width="8"/>
-<rect x="144" y="112" width="32" height="32" rx="16" transform="rotate(90 144 112)" stroke="white" stroke-width="8"/>
-<rect x="80" y="112" width="32" height="32" rx="16" transform="rotate(90 80 112)" stroke="white" stroke-width="8"/>
-<rect x="208" y="176" width="32" height="32" rx="16" transform="rotate(90 208 176)" stroke="white" stroke-width="8"/>
-<rect x="144" y="176" width="32" height="32" rx="16" transform="rotate(90 144 176)" stroke="white" stroke-width="8"/>
-<rect x="80" y="176" width="32" height="32" rx="16" transform="rotate(90 80 176)" stroke="white" stroke-width="8"/>
-<rect x="208" y="48" width="32" height="32" rx="16" transform="rotate(90 208 48)" stroke="white" stroke-width="8"/>
-<rect x="144" y="48" width="32" height="32" rx="16" transform="rotate(90 144 48)" stroke="white" stroke-width="8"/>
-<rect x="80" y="48" width="32" height="32" rx="16" transform="rotate(90 80 48)" stroke="white" stroke-width="8"/>
+  <rect x="208" y="112" width="32" height="32" rx="16" transform="rotate(90 208 112)" stroke="white" stroke-width="8"/>
+  <rect x="144" y="112" width="32" height="32" rx="16" transform="rotate(90 144 112)" stroke="white" stroke-width="8"/>
+  <rect x="80" y="112" width="32" height="32" rx="16" transform="rotate(90 80 112)" stroke="white" stroke-width="8"/>
+  <rect x="208" y="176" width="32" height="32" rx="16" transform="rotate(90 208 176)" stroke="white" stroke-width="8"/>
+  <rect x="144" y="176" width="32" height="32" rx="16" transform="rotate(90 144 176)" stroke="white" stroke-width="8"/>
+  <rect x="80" y="176" width="32" height="32" rx="16" transform="rotate(90 80 176)" stroke="white" stroke-width="8"/>
+  <rect x="208" y="48" width="32" height="32" rx="16" transform="rotate(90 208 48)" stroke="white" stroke-width="8"/>
+  <rect x="144" y="48" width="32" height="32" rx="16" transform="rotate(90 144 48)" stroke="white" stroke-width="8"/>
+  <rect x="80" y="48" width="32" height="32" rx="16" transform="rotate(90 80 48)" stroke="white" stroke-width="8"/>
 </svg>
