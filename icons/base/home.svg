@@ -1,8 +1,0 @@
-<svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <g clip-path="url(#clip0_22_98)">
-    <rect x="45" y="86" width="55" height="156" rx="20" fill="white"/>
-    <rect x="155" y="86" width="55" height="156" rx="20" fill="white"/>
-    <path d="M121.796 18.9069C125.432 16.0311 130.568 16.0311 134.204 18.9069L235.345 98.9069C242.781 104.788 238.622 116.75 229.142 116.75H26.8584C17.3779 116.75 13.219 104.788 20.6547 98.9069L121.796 18.9069Z" fill="white"/>
-    <path fill-rule="evenodd" clip-rule="evenodd" d="M178 93H77V172H100V170C100 158.954 108.954 150 120 150H135C146.046 150 155 158.954 155 170V172H178V93Z" fill="white"/>
-  </g>
-</svg>

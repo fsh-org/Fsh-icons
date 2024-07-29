@@ -1,8 +1,0 @@
-<svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <g clip-path="url(#clip0_16_74)">
-    <circle cx="128" cy="50" r="50" fill="white"/>
-    <rect x="103" y="128" width="50" height="128" fill="white"/>
-    <path d="M153 128H156C211.228 128 256 172.772 256 228V256H153V128Z" fill="white"/>
-    <path d="M0 228C0 172.772 44.7715 128 100 128H103V256H0V228Z" fill="white"/>
-  </g>
-</svg>

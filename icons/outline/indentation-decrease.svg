@@ -1,8 +1,0 @@
-<svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <g clip-path="url(#clip0_36_591)">
-    <rect x="71" y="52" width="181" height="24" rx="12" stroke="white" stroke-width="8"/>
-    <rect x="71" y="116" width="181" height="24" rx="12" stroke="white" stroke-width="8"/>
-    <rect x="71" y="180" width="181" height="24" rx="12" stroke="white" stroke-width="8"/>
-    <path d="M12.4946 131.43C9.9047 129.877 9.9047 126.123 12.4946 124.57L46.6924 104.056C49.3585 102.457 52.75 104.378 52.75 107.487L52.75 148.513C52.75 151.622 49.3585 153.543 46.6924 151.944L12.4946 131.43Z" stroke="white" stroke-width="8"/>
-  </g>
-</svg>
