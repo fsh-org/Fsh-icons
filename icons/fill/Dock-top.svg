@@ -1,3 +1,4 @@
 <svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
 <rect x="240" y="15" width="85" height="220" transform="rotate(90 240 15)" fill="white"/>
+<rect width="232" height="232" rx="20" transform="matrix(-4.37114e-08 -1 -1 4.37114e-08 244 244)" stroke="white" stroke-width="24"/>
 </svg>
