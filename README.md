@@ -1,3 +1,3 @@
 # Fsh icons
-Collection of free icons.\
-Both Fill and Outline styles.
+Collection of free (MIT) icons.\
+Fill, Outline, and Sharp styles.

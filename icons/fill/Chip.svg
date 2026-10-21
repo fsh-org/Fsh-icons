@@ -1,0 +1,16 @@
+<svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M195 40C206.046 40 215 48.9543 215 60V195C215 206.046 206.046 215 195 215H60C48.9543 215 40 206.046 40 195V60C40 48.9543 48.9543 40 60 40H195ZM70 65C67.2386 65 65 67.2386 65 70V185C65 187.761 67.2386 190 70 190H185C187.761 190 190 187.761 190 185V70C190 67.2386 187.761 65 185 65H70Z" fill="white"/>
+<rect x="88" y="88" width="80" height="80" rx="5" fill="white"/>
+<rect x="118" width="20" height="60" rx="10" fill="white"/>
+<rect x="153" width="20" height="60" rx="10" fill="white"/>
+<rect x="83" width="20" height="60" rx="10" fill="white"/>
+<rect x="118" y="196" width="20" height="60" rx="10" fill="white"/>
+<rect x="153" y="196" width="20" height="60" rx="10" fill="white"/>
+<rect x="83" y="196" width="20" height="60" rx="10" fill="white"/>
+<rect x="196" y="83" width="60" height="20" rx="10" fill="white"/>
+<rect x="196" y="118" width="60" height="20" rx="10" fill="white"/>
+<rect y="118" width="60" height="20" rx="10" fill="white"/>
+<rect y="83" width="60" height="20" rx="10" fill="white"/>
+<rect x="196" y="153" width="60" height="20" rx="10" fill="white"/>
+<rect y="153" width="60" height="20" rx="10" fill="white"/>
+</svg>
